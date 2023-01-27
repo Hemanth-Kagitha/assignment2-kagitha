@@ -14,3 +14,8 @@ The **Best players** in this team are :
 Ravindra Jadeja
 Shardul Thakur
 Suresh Kumar Raina
+
+The other teams, which plays good cricket are :
+Sunrisers Hyderabad
+Mumbai Indians
+Gujarat Titans
