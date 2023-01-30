@@ -12,8 +12,8 @@ Visit this link to see my Profile Photo.
 
 |S.no | NameofCountry | ReasonstoVisit |                                 | Daystospent |
 -------------------------------------------------------------------------------------------
- 1.       Greece       Greece is a country with thousands of islands.      
-                       called the cradle of Western                               15    civilization.                                                               
+ 1.       Greece       Greece is a country with thousands of islands.             15
+                       called the cradle of Western   civilization.                                                     
 
  2.       Spain        Spain is a great way to experience its stunning
                        architecture, diverse culture, and delicious food.         20
