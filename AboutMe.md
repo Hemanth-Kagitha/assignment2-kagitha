@@ -33,3 +33,13 @@ Visit this link to see my Profile Photo.
                        stunning views of Mount Fuji. Tokyo is a city reaching 
                        into the future, pushing the boundaries of what's possible 
                        densely populated, earthquake-prone land.
+
+
+--------------------------------------------------------------------------------------------------------
+# A Few Funny Qoutes
+
+> The difference between stupidity and genius is that genius has its limits.
+>                                                  - *Albert Einstein*.
+
+> Marriage is the chief cause of divorce.
+>                            - *Groucho Marx*.
