@@ -10,15 +10,17 @@ I like **Cricket** very much, beacause This game is around me since my **childho
 # Favourite Team 
 My Favourite team that plays Cricket is **Chennai Super Kings**.
 
+# Ordered List
 The **Best players** in this team are : 
-Ravindra Jadeja
-Shardul Thakur
-Suresh Kumar Raina
+1. Ravindra Jadeja
+2. Shardul Thakur
+3. Suresh Kumar Raina
 
+# Unordered List
 The other teams, which plays good cricket are :
-Sunrisers Hyderabad
-Mumbai Indians
-Gujarat Titans
+- Sunrisers Hyderabad
+- Mumbai Indians
+- Gujarat Titans
 
 Here is a link to view AboutMe.md
 [Path to AboutMe](AboutMe.md)
