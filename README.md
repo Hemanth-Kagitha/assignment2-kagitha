@@ -28,29 +28,15 @@ Here is a link to view AboutMe.md
 ---------------------------------------------------------------
 ### Recommendations to travel to a country
   
-    This table provides a list of four countries that I would recommend someone visit.
+   
+    
 
-|S.no | NameofCountry |           ReasonstoVisit |                           | Daystospent |
--------------------------------------------------------------------------------------------
- 1.      Australia       Only in Australia, we can see Kangaroos. And
-                         beautiful colar reefs, Most Melbourne has cricket
-                         ground with capacity of over 100,000. Cities like          18 
-                         Sydney, perth, Hobart, Brisbane have their wonders 
-                         to visit.
-
- 2.       Maldives       Maldives is known for its beaches, and beautiful 
-                         islands. It has luxury Hotels, bungalows. I recommend      07
-                         to visit maldives in Summmer.
-
- 3.        India         If one visit India, they can experience a different 
-                         cultures and traditions in every part of the country.      33
-                         Because of it's moderate temperatures, One can travel 
-                         any  place in almost anytime. India is famous for 
-                         temples, famous Architectures, Spicy foods.
-
- 4.        Japan         As an Anime Fan, I recommend to visit Japan. Japan is 
-                         famous for Mount fuji. And thier culture, Respect to       25
-                         elders is one thing, we couldn't find anywhere.
+| NameofCountry |           ReasonstoVisit  | Daystospent |
+|----------------|---------------------------------------------|---------------------|
+|    Australia   |  Beaches, Colar reefs, Kangaroos                 |        11     |
+ |   Maldives   |   Maldives is known for its beaches, beautiful islands |     07     |
+  |   India     |  Different food, variety of cultures.                  |     23     |
+ |   Japan    |    As an Anime Fan, I recommend to visit Japan. Mt. Fuji   |  12|
 
 
 
